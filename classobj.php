@@ -36,3 +36,4 @@ echo "value of a " . $obj2->a  . "value of b  " . $obj2->b . "<br>";
 echo "multiplication is " . $obj2->mul() . "<br>";
 echo "addition  is " . $obj2->add() . "<br>";
 echo "sub is " . $obj2->sub() . "<br>";
+// THIS IS EXAMPLE OFF CLASS AND OBJECTS
