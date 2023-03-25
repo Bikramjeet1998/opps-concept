@@ -27,7 +27,7 @@ echo "addition  is " . $obj1->add() . "<br>";
 echo "sub is " . $obj1->sub() . "<br>";
 // echo "<pre>";
 // echo var_dump($obj1);
-// echo "</pre>";
+
 
 $obj2 = new bca();
 $obj2->a = 8;
